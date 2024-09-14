@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medilop Health</title>
+    <title>GWETH HOSPITAL</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -93,17 +93,17 @@
         <div class="doctor-cards">
             <div class="doctor-card">
                 <img src="doctor_image.jpg" alt="Doctor">
-                <h3>Dr. Alex, Ph.D.</h3>
+                <h3>Dr. Murphy, Ph.D.</h3>
                 <p>Specialist in Neurology</p>
             </div>
             <div class="doctor-card">
                 <img src="doctor_image.jpg" alt="Doctor">
-                <h3>Dr. Robert, Ph.D.</h3>
+                <h3>Dr. Wesley, Ph.D.</h3>
                 <p>Specialist in Cardiology</p>
             </div>
             <div class="doctor-card">
                 <img src="doctor_image.jpg" alt="Doctor">
-                <h3>Dr. Angel, Ph.D.</h3>
+                <h3>Dr. Fabbry, Ph.D.</h3>
                 <p>Specialist in Dermatology</p>
             </div>
         </div>
